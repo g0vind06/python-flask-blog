@@ -1,0 +1,19 @@
+{
+      "params":{
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/mysql",
+        "prod_uri":"mysql://root:@localhost/mysql",
+        "fb_url":"https://facebook.com/codingtech",
+        "tw_url":"https://twitter.com/codingtech",
+        "gh_url":"https://github.com/codingtech",
+        "gmail-user":"govind@gmail.com",
+        "gmail-password":"kiougpqqejirqiji",
+        "blog_name":"Coding Tech",
+        "tag_line":"Programmers love it",
+        "about_text":"My name is govind tiwari. And here I can add all the texts about myself.",
+        "no_of_posts":2,
+        "admin_user":"govind",
+        "admin_password":"password",
+        "upload_location":"C:\\PythonFiles\\Flask\\static"
+      }
+}
